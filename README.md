@@ -1,3 +1,2 @@
 # hello-world
 Just another repository.
-It's quiet out here...
